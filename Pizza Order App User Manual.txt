@@ -1,0 +1,14 @@
+Pizza Order App User Manual
+
+Save and unzip file in your choice location.
+Run the PizzaOrderApp.py in python.
+
+Select Dine In or Take Out
+Select your pizza size and toppings
+Select if you would like to add breadsticks
+
+*Note - You cannot order without selecting a pizza size
+
+Select Checkout, or if at any point you change your mind you can select Reset to go back to the main screen.
+
+Your total will be displayed at the bottom of the window and on your pop up receipt.
